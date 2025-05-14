@@ -1,4 +1,4 @@
-export default function UserCard(user) {
+export default function UserCard({ user }) {
     return (
         <>
             <div className="user-card">
